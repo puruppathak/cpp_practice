@@ -3,7 +3,7 @@ using namespace std;
 using std::cout;
 
 
-bool checkdup(int a[],int n)
+bool checkdup(int a[],int n)   // Function for checking duplicate elements in an array. 
 {
  int i,j;
 
@@ -25,7 +25,7 @@ bool checkdup(int a[],int n)
 int main()
 {
 
-cout<<"Hello: This is Selection sort\n";
+
 int a[]={2,1,3,5};
 int i,n,j;
 cout<<"Array is: \n";
