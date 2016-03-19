@@ -1,3 +1,4 @@
+//This problem can also be solved with a hashmap
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
