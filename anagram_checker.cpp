@@ -24,7 +24,7 @@ int main()
    // cout<<len1;
     sort(str1.begin(),str1.end());
     sort(str2.begin(),str2.end());
-    int ret = strcmp(str1.c_str(), str2.c_str());      // converting to C style strings using c_str()
+    int ret = strcmp(str1.c_str(), str2.c_str());      // converting to C style strings using c_str() function
     if(ret==0)
     {
     	cout<<"Strings are anagrams \n";
