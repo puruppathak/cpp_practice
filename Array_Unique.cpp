@@ -8,7 +8,7 @@ using std::cout;
 int main()
 {
 
-int a[200]={}; // Array initialized
+int a[200]={}; // Array initialized here
 int n,i,j;
 cout<<"Enter number of elements: \n";
 cin>>n;
